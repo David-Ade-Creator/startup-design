@@ -15,7 +15,7 @@ const data = [
     altText: 'Fast Performance',
     title: 'Fast Performance',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Building fast performing applications.',
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const data = [
     altText: 'Partnership deal',
     title: 'Partnership deal',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'M3 Startup are ready to partner up with other well versed startups.',
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const data = [
     altText: 'Pro Subscription',
     title: 'Pro Subscription',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'We believe it’s important for everyone to have access to software.',
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const data = [
     altText: 'Customer Support',
     title: 'Customer Support',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Providing lifetime support for our applications.',
   },
 ];
 

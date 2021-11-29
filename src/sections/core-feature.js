@@ -10,7 +10,7 @@ const data = {
   subTitle: 'Core features',
   title: 'Smart Jackpots that you may love this anytime & anywhere',
   description:
-    'Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.',
+    'Building fast performing applications, well optimized and less space consuming web applications using the best practices.',
   btnName: 'Get Started',
   btnURL: '#',
 };

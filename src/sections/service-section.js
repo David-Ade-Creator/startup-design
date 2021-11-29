@@ -31,7 +31,7 @@ const data = {
       altText: 'Smart Features',
       title: 'Smart Features',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Building fast performing applications, well optimized with smart features.',
     },
     {
       id: 2,
@@ -39,7 +39,7 @@ const data = {
       altText: 'Secure Contents',
       title: 'Secure Contents',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'We believe it’s important for everyone to have access to software – especially when it comes to digital learning be navigated by keyboard and screen readers.',
     },
   ],
 };
